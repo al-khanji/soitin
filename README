@@ -1,0 +1,34 @@
+About Soitin
+============
+
+Soitin is a light-weight media player aimed at mobile devices (the Nokia N810
+especially), and maybe KDE4 desktops, as Amarok is not yet available. It does
+not have many features, which counts as a feature. It can play plain music as
+well as files with video. Trivia: Soitin means Player in the Finnish language.
+
+Compiling
+=========
+
+Assuming you have Qt >= 4.4 it should be as easy as saying 'qmake', followed
+by 'make'. You should now have a new and shiny 'soitin' binary. You can say
+'make install' if you want to install it into the system. A .desktop file is
+provided. /usr is the default prefix, if you want to install to somewhere else
+edit soitin.pro.
+
+Bugs, Patches, and Contact Info
+===============================
+
+Soitin is developed by Louai Al-Khanji. Good bug reports are welcome. Patches
+are even more welcome. Bear in mind that I might reject your patches if I do
+not like them. This means that you should probably discuss the feature first;
+Soitin is above all meant to be small, fast and slick.
+
+My current e-mail address is louai.khanji@gmail.com. I also hang out on IRC,
+mostly IRCNet and Freenode, where I go by the nick slougi.
+
+License
+=======
+
+Soitin is licensed under the zlib license. This means you can do pretty much
+whatever you want with it. See the file LICENSING for details.
+

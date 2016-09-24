@@ -1,0 +1,25 @@
+Soitin 1.0
+----------
+* First Release
+
+Soitin 1.1
+----------
+* Fix issues with installation of the soitin binary
+* Add ability to view and change track metadata
+* Add queueing of files. No UI for this yet.
+* Add icon licensing info that I forgot to include
+* Add more mime types to the .desktop file
+* Make verbosity a run-time option instead of compile-time
+* Properly seed random number generator for more random shuffling
+* Improved selection handling
+* Better command-line argument handling, like random play of first track when
+requested
+
+Soitin 1.1.1
+------------
+* New icon
+* Remove all Oxygen icons
+* Add support for translations
+* Install docs into file system
+* Add Finnish and Polish translations. Polish translation courtesy of Adrian Łubik.
+
